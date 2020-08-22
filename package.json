@@ -23,12 +23,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm start",
-      "pre-push": "npm start"
-    }
-  },
   "eslintConfig": {
     "extends": "react-app"
   },
